@@ -15,6 +15,11 @@ You will need to have [Godot Engine](https://godotengine.org/) version 3.5.2 or 
 ### Installing
 
 1. Clone the repository to your local machine.
+
+```
+git clone https://github.com/alexandremassaro/creaturesim.git
+```
+
 2. Open the project in Godot Engine.
 3. Press the "Play" button to start the simulation.
 
