@@ -47,4 +47,6 @@ The simulation starts with a randomly generated population of creatures. The cre
 
 You can also interact with the simulation by clicking on the creatures to view their genetic code and statistics.
 
-Enjoy the simulation and have fun
+Enjoy the simulation and have fun with the evolution of creatures!
+
+PS: This readme file was completely created by chatGPT, with very little corrections by me. What a wonderful tool. Learn more at: https://chat.openai.com
